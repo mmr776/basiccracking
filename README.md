@@ -10,6 +10,7 @@ The key to these methods are relying on lots of information on the target. This 
 		
 For gathering more information on a target:
 Site | Description
+------------ | ------------
 https://snusbase.com/ | I primarily use this site for finding their email with the wildcard search and using instagrams "forgot password" feature to narrow down the results.
 https://www.beenverified.com/ | I use this site for a reverse lookup to potentially find their email or phone number
 		
