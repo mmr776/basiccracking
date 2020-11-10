@@ -26,7 +26,7 @@ Please DO NOT try to log into an account from the app, you *WILL* trigger a susp
 		> If met with a suspicious login screen or you have logged into the account, congrats, it worked!
 		
 ### 3. Bypassing Suspicious login:
-*WARNING: THIS DOES NOT GUARENTEE THE BYPASS OF THE SCREEN, THIS IS ONLY A KNOWN METHOD THAT HAS WORKED FOR SOME*
+* WARNING: THIS DOES NOT GUARENTEE THE BYPASS OF THE SCREEN, THIS IS ONLY A KNOWN METHOD THAT HAS WORKED FOR SOME
 		
 When logging into the account on the app, sometimes connecting to a vpn is all that is needed to bypass the screen. But please do this with caution, because if it does not work the target will be alerted and change the password.
 		
@@ -37,7 +37,3 @@ The most secure way is to purchase a "Bypass suspcious login" off my shoppy here
 If you easily understood this tutorial and have successfully gotten into accounts and want to work for me, please message me on telegram @mmr_776 (I PAY YOU 10 EURO PER ACCOUNT HACKED)
 		
 > Note: Must have a jailbroken ios device
-* Item 1
-* Item 2
-  * Item 2a
-  * Item 2b
