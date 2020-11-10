@@ -6,19 +6,19 @@ The key to these methods are relying on lots of information on the target. This 
 ### Setting up your work-station:
 *By workstation, I mean gathering the tools you will need to attempt this hack.*
 		
--Purchase a subscription at one or all of the following sites:
+### Purchase a subscription at one or all of the following sites:
 		
-For gathering more information on a target:
+##### For gathering more information on a target:
 Site | Description
 ------------ | ------------
 https://snusbase.com/ | I primarily use this site for finding their email with the wildcard search and using instagrams "forgot password" feature to narrow down the results.
 https://www.beenverified.com/ | I use this site for a reverse lookup to potentially find their email or phone number
 		
-For finding passwords:
-- https://leakpeek.com/
-> one of the best sites for finding passwords associated with emails or a common username 
-- https://dehashed.com/	(check the hashes on https://hashes.org/)
-> lower tier than leakpeek, but i havent really used this site too much
+##### For finding passwords:
+Site | Description
+------------ | ------------
+https://leakpeek.com/ | one of the best sites for finding passwords associated with emails or a common username
+https://dehashed.com/ | lower tier than leakpeek, but i havent really used this site too much (check the hashes on https://hashes.org/)
 				
 ### Testing passwords:
 Please DO NOT try to log into an account from the app, you *WILL* trigger a suspcious login that will alert the target. Test all passwords on https://accounts.snapchat.com/accounts/login 
