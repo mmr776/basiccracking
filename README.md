@@ -1,7 +1,7 @@
 # MMR's Snapchat Cracking tutorial	-	*@MMR_776 ON TELEGRAM FOR MORE IN DEPTH TUTORIALS*
 
 ## Preface:
-The key to these methods are relying on lots of information on the target. This includes full name, email, phone number, and any social media usernames or known screen names of the target. Using all of this information you can cross reference with the information you gain from the sites and services i will list to give you the best chance at hacking the target.
+The key to these methods are relying on lots of information on the target. This includes full name, email, phone number, and any social media usernames or known screen names of the target. Using all of this information you can cross reference with the information you gain from the sites and services i will list to give you the best chance at hacking the target. (PLEASE ONLY ATTEMPT TO HACK SOMEONE'S ACCOUNT WITH CONSENT BEFOREHAND, ANY OTHER SCENARIO IS STRICTLY FORBIDDEN AND I DO NOT CONDONE IT. THIS IS PURELY EDUCATIONAL.)
 		
 ## Tutorial:
 
