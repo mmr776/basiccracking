@@ -5,7 +5,7 @@ The key to these methods are relying on lots of information on the target. This 
 		
 ## Tutorial:
 
-### * Purchase a subscription at one or all of the following sites:
+* ### Purchase a subscription at one or all of the following sites:
 		
 ##### For gathering more information on a target:
 Site | Description
