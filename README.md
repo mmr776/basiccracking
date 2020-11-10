@@ -6,7 +6,7 @@ The key to these methods are relying on lots of information on the target. This 
 ## Setting up your work-station:
 *By workstation, I mean gathering the tools you will need to attempt this hack.*
 		
-### Purchase a subscription at one or all of the following sites:
+### 1. Purchase a subscription at one or all of the following sites:
 		
 ##### For gathering more information on a target:
 Site | Description
@@ -20,7 +20,7 @@ Site | Description
 https://leakpeek.com/ | one of the best sites for finding passwords associated with emails or a common username
 https://dehashed.com/ | lower tier than leakpeek, but i havent really used this site too much (check the hashes on https://hashes.org/)
 				
-### Testing passwords:
+### 2. Test passwords on Snapchat:
 Please DO NOT try to log into an account from the app, you *WILL* trigger a suspcious login that will alert the target. Test all passwords on https://accounts.snapchat.com/accounts/login 
 		> If after hitting the login button you are met with a blank screen, this does not mean the password worked. This is snapchat rate limiting the number of tries on the account. Take 15 or so minutes off that target and come back to it later.
 		> If met with a two factor authenticaion code, you are shit outta luck, that shits impossible unless you sim swap (if you don't know what this is, don't look it up)
