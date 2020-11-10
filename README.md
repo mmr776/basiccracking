@@ -3,9 +3,8 @@
 ## Preface:
 The key to these methods are relying on lots of information on the target. This includes full name, email, phone number, and any social media usernames or known screen names of the target. Using all of this information you can cross reference with the information you gain from the sites and services i will list to give you the best chance at hacking the target.
 		
-## Setting up your work-station:
-*By workstation, I mean gathering the tools you will need to attempt this hack.*
-		
+## Tutorial:
+
 ### 1. Purchase a subscription at one or all of the following sites:
 		
 ##### For gathering more information on a target:
